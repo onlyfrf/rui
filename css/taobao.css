@@ -1,0 +1,22 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body a{
+	font-size:16px ;
+	text-decoration: none;
+	color: black;
+}
+.header{
+	background-color: #ccc;
+}
+.xiala1{
+	background-color: #CCCCCC;
+	border: none;
+	margin-left:100px ;
+	outline: medium;
+}
+.header_left li{
+	list-style: none;
+	float: left;
+}
